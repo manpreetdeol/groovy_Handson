@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="extras-jaxb">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Downloads/apache-groovy-binary-3.0.0-rc-3/groovy-3.0.0-rc-3/lib/extras-jaxb" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/Downloads/apache-groovy-binary-3.0.0-rc-3/groovy-3.0.0-rc-3/lib/extras-jaxb" recursive="false" />
+    </library>
+  </component>
+</project>
