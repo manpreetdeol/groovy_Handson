@@ -1,6 +1,5 @@
 
 def file = new File('../data/barrett_spur.gpx')
-
 def slurper = new XmlSlurper()
 def data = slurper.parse(file)
 
