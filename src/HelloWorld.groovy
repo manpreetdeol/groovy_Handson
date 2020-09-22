@@ -24,5 +24,9 @@ class HelloWorld {
 
         assert calculator.div(3,2) == 1.5
         println calculator.div(3,2)
+
+     for(i in 1..5) {
+       print i
+     }
     }
 }
